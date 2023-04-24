@@ -5,7 +5,7 @@ UFPA - CamTUC
 
 Faculdade de engenharia elétrica
 
-Docente: Cleison d
+Docente: Cleison Daniel Silva
 
 Discentes: 
 Ivanildo dos Santos Bento;
